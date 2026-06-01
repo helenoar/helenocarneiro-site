@@ -33,6 +33,27 @@ O `youtubeId` é a parte final da URL do YouTube (ex: `HprkrE2l024` de `youtu.be
 ### Dados da home
 Edite `/data/home.json` para mudar nome, subtítulo ou contatos na página inicial.
 
+Estrutura do `home.json`:
+```json
+{
+  "name": "Heleno Carneiro",
+  "subtitles": {
+    "pt": "...",
+    "en": "...",
+    "es": "...",
+    "fr": "..."
+  },
+  "contact": { "instagram": "...", "instagramUrl": "...", "email": "..." }
+}
+```
+O subtítulo é exibido no idioma ativo do store — **não usar `subtitlePt` ou `subtitle` (campos removidos)**.
+
+## Idiomas
+
+O switcher PT/EN/ES/FR aparece no header em **todas as páginas** (não só em `/cv`). O idioma ativo vem do Zustand store em `lib/language-store.ts` (padrão: `pt`).
+
+Os itens do nav (`CURRÍCULO / CV / PORTAFOLIO...`) são traduzidos via `/data/nav.json`.
+
 ## Design System
 - Fundo: `#1C1C1C` (`bg-bg`)
 - Pink: `#FF006E` (`text-pink`, `bg-pink`)
