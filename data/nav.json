@@ -1,0 +1,5 @@
+{
+  "cv": { "pt": "Currículo", "en": "CV", "es": "CV", "fr": "CV" },
+  "portfolio": { "pt": "Portfólio", "en": "Portfolio", "es": "Portafolio", "fr": "Portfolio" },
+  "videos": { "pt": "Vídeos", "en": "Videos", "es": "Videos", "fr": "Vidéos" }
+}
