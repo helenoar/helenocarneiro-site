@@ -3,6 +3,8 @@ import { AnimatePresence, motion } from 'framer-motion'
 import { useLanguageStore } from '@/lib/language-store'
 import Image from 'next/image'
 
+type Lang = 'pt' | 'en' | 'es' | 'fr'
+
 interface CVData {
   lang: string
   sections: {
@@ -65,7 +67,7 @@ interface CVData {
 }
 
 interface Props {
-  allCVs: Record<string, CVData>
+  allCVs: Record<Lang, CVData>
 }
 
 const sectionVariants = {
@@ -76,7 +78,7 @@ const sectionVariants = {
 
 export default function CVContent({ allCVs }: Props) {
   const { lang } = useLanguageStore()
-  const cv = allCVs[lang] as CVData
+  const cv = allCVs[lang as Lang]
   const s = cv.sections
 
   return (
@@ -96,6 +98,7 @@ export default function CVContent({ allCVs }: Props) {
                 src="/cover-photo.jpg"
                 alt="Heleno Carneiro"
                 fill
+                sizes="192px"
                 className="object-cover grayscale"
               />
             </div>

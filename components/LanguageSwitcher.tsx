@@ -3,6 +3,12 @@ import { useLanguageStore } from '@/lib/language-store'
 
 const langs = ['PT', 'EN', 'ES', 'FR'] as const
 const langMap = { PT: 'pt', EN: 'en', ES: 'es', FR: 'fr' } as const
+const ariaLabels = {
+  PT: 'Mudar para Português',
+  EN: 'Switch to English',
+  ES: 'Cambiar a Español',
+  FR: 'Passer au Français'
+} as const
 
 export default function LanguageSwitcher() {
   const { lang, setLang } = useLanguageStore()
@@ -16,6 +22,8 @@ export default function LanguageSwitcher() {
           <button
             key={l}
             onClick={() => setLang(code)}
+            aria-label={ariaLabels[l]}
+            aria-pressed={isActive}
             className={`text-xs tracking-[0.2em] font-barlow transition-colors duration-200 ${
               isActive
                 ? 'text-[#FF006E] font-bold'
