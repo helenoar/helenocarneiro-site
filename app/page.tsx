@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import homeData from '@/data/home.json'
 
 export default function HomePage() {
@@ -5,10 +6,12 @@ export default function HomePage() {
     <div className="relative w-full h-screen overflow-hidden">
       {/* Hero background with Ken Burns */}
       <div className="absolute inset-0 overflow-hidden">
-        <img
+        <Image
           src="/hero-bg.jpg"
           alt="Heleno Carneiro"
-          className="ken-burns w-full h-full object-cover"
+          fill
+          priority
+          className="ken-burns object-cover"
           style={{ transformOrigin: 'center center' }}
         />
         <div className="absolute inset-0" style={{ backgroundColor: 'rgba(28,28,28,0.55)' }} />
