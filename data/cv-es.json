@@ -1,0 +1,190 @@
+{
+  "lang": "es",
+  "sections": {
+    "cover": {
+      "name": "Heleno Carneiro",
+      "pronouns": "él · hombre trans",
+      "subtitle": "BAILARÍN · COREÓGRAFO · DIRECTOR COREOGRÁFICO · DOCENTE\nFORMADO EN DANZA CONTEMPORÁNEA, TRABAJO DE PISO,\nIMPROVISACIÓN, BALLET CLÁSICO Y TEATRO",
+      "contact": {
+        "instagram": "@helenoar",
+        "instagramUrl": "https://instagram.com/helenoar",
+        "email": "helenocarneiro.art@gmail.com",
+        "phone": "+55 31 996862968"
+      },
+      "personalInfo": {
+        "nationality": "Brasileño",
+        "pronounsAge": "Él · Hombre trans, 28 años"
+      },
+      "awards": [
+        "Nominado a Mejor Bailarín, Premio SINPARC (2019) — principal premio de danza de Belo Horizonte, Brasil.",
+        "Seleccionado para representar a Brasil como parte de la Delegación de Jóvenes Creadores Brasileños en la 21ª Bienal de Danza de Lyon (2025)."
+      ]
+    },
+    "about": {
+      "title": "SOBRE MÍ",
+      "bio": "SOY UN BAILARÍN, COREÓGRAFO Y DOCENTE BRASILEÑO CUYA TRAYECTORIA COMENZÓ A LOS SEIS AÑOS, MARCADA POR LA RESILIENCIA, LA CURIOSIDAD Y UN PROFUNDO VÍNCULO CON EL MOVIMIENTO. COMO HOMBRE TRANS, LA DANZA SE CONVIRTIÓ EN EL MEDIO A TRAVÉS DEL CUAL HABITO MI CUERPO, EXPLORO MI IDENTIDAD Y TRANSITO MÚLTIPLES MUNDOS. COMO CREADOR, DESARROLLO SOLOS AUTORALES EN LOS QUE ACTÚO COMO AUTOR, COREÓGRAFO Y DIRECTOR — PIEZAS QUE EXPLORAN NARRATIVAS CORPORALES SINGULARES Y HAN SIDO PRESENTADAS EN FESTIVALES NACIONALES E INTERNACIONALES. COMO DOCENTE, HE IMPARTIDO TALLERES EN UNIVERSIDADES PÚBLICAS, COMPAÑÍAS DE DANZA Y ESPACIOS CULTURALES EN BRASIL, CON LA INVESTIGACIÓN SOMÁTICA Y LA CONCIENCIA CORPORAL COMO EJE DE MI PRÁCTICA PEDAGÓGICA.\n\nMI FORMACIÓN EN EL BALLET JOVEM MINAS GERAIS ME EXPUSO A DIVERSAS VOCES COREOGRÁFICAS, ENSEÑÁNDOME QUE LA TÉCNICA NO ES SOLO PRECISIÓN, SINO CONCIENCIA, ADAPTABILIDAD Y PRESENCIA EN MÚLTIPLES LENGUAJES DE MOVIMIENTO. CRECÍ EN LA ESCENA DE LA DANZA BRASILEÑA, DONDE LOS RECURSOS SON LIMITADOS: APRENDÍ A INVENTAR, ADAPTAR Y ABRAZAR LA MULTIPLICIDAD EN LA CREACIÓN. REPRESENTÉ LA DANZA CONTEMPORÁNEA DE MI REGIÓN EN LA BIENAL DE DANZA DE LYON. MÁS ALLÁ DEL ESTUDIO, PRÁCTICAS COMO LA CAPOEIRA, LA DANZA URBANA, LA DANZA AFROBRASILEÑA Y EL FLOORWORK HAN AMPLIADO MI REPERTORIO FÍSICO E IMAGINATIVO. APORTO ENERGÍA, IMAGINACIÓN Y UNA FUERTE PRESENCIA ESCÉNICA — COMPROMETIDO A CONTRIBUIR CON MI VOZ, CULTURA Y EXPERIENCIA EN PROCESOS QUE VALORAN LA INDIVIDUALIDAD, LA PROFUNDIDAD Y LA EXPLORACIÓN CREATIVA.",
+      "stats": [
+        { "value": "22", "label": "Años de práctica" },
+        { "value": "14", "label": "Obras como intérprete" },
+        { "value": "6", "label": "Festivales internacionales" },
+        { "value": "5", "label": "Países · 2 continentes" }
+      ]
+    },
+    "choreography": {
+      "title": "COREOGRAFÍA Y DIRECCIÓN",
+      "works": [
+        {
+          "number": "01",
+          "role": "Autor · Coreógrafo · Intérprete",
+          "title": "Gerúndio",
+          "year": "2023 · presente",
+          "description": "Solo autoral de creación propia. Concepción, coreografía, dirección e interpretación: Heleno Carneiro. La pieza explora el cuerpo en estado gerundio — en permanente devenir, entre la acción y el proceso. Presentado en festivales nacionales e internacionales de danza contemporánea, incluyendo la 21ª Bienal de Danza de Lyon (2025) como representante de la Delegación de Jóvenes Creadores Brasileños."
+        },
+        {
+          "number": "02",
+          "role": "Autor · Coreógrafo · Intérprete",
+          "title": "Pulso",
+          "year": "2025 · presente",
+          "description": "Solo autoral de creación propia. Concepción, coreografía, dirección e interpretación: Heleno Carneiro. Una investigación sobre el pulso como principio organizador del movimiento — entre el ritmo interno del cuerpo y el tiempo compartido con el otro."
+        },
+        {
+          "number": "03",
+          "role": "Director y Coreógrafo",
+          "title": "Bambo",
+          "year": "2025",
+          "description": "Pieza de danza callejera producida por la compañía franco-brasileña de danza Ananda. Dirección artística y coreografía: Heleno Carneiro. La obra dialoga con el legado del bambú como símbolo de flexibilidad y resistencia en las culturas afrobrasileñas."
+        },
+        {
+          "number": "04",
+          "role": "Director de Movimiento",
+          "title": "Defesa",
+          "year": "2025",
+          "description": "Pieza de danza-teatro. Dirección de movimiento: Heleno Carneiro. Una exploración de los mecanismos de protección, resistencia y apertura que habitamos cotidianamente — el cuerpo como campo de negociación entre la vulnerabilidad y la fuerza."
+        }
+      ]
+    },
+    "teaching": {
+      "title": "DOCENCIA",
+      "description": "Práctica pedagógica centrada en la investigación somática, la conciencia corporal y la expansión del repertorio de movimiento. El taller \"Corpo 360°\" propone una exploración tridimensional del cuerpo — integrando trabajo de piso, dinámica del peso, contacto e improvisación como herramientas de creación y autoconocimiento.",
+      "workshopsHeading": "Talleres Impartidos",
+      "items": [
+        "Taller \"Corpo 360°\" — Poleiro Cultural · Belo Horizonte, Brasil",
+        "Taller \"Corpo 360°\" — Curso de Danza · Universidad Federal de Minas Gerais (UFMG) · Belo Horizonte",
+        "Taller \"Corpo 360°\" — Teatro Universitário · Universidad Federal de Minas Gerais (UFMG) · Belo Horizonte",
+        "Taller \"Corpo 360°\" — Compañía Fragmento · São Paulo, Brasil (Dirección artística: Vanessa Macedo)",
+        "Taller \"Corpo 360°\" — Escola do Corpo · Belo Horizonte, Brasil"
+      ],
+      "juryHeading": "Banca y Evaluación",
+      "jury": [
+        "Miembro del Jurado de Evaluación — Curso de Danza CEFART / Fundação Clóvis Salgado — Palácio das Artes · Belo Horizonte, Brasil"
+      ]
+    },
+    "performance": {
+      "title": "EXPERIENCIA EN ESCENA",
+      "subheading": "Obras Destacadas en Danza Contemporánea",
+      "works": [
+        { "title": "Estado Bruto", "credit": "Dirigido por el reconocido bailarín brasileño Dude Hermann (2018)" },
+        { "title": "Por si próprio", "credit": "Coreografía del bailarín internacional Fábio Alcântara (2019)" },
+        { "title": "E C O", "credit": "Coreografía de Marcela Gozzi, bailarina de la reconocida Companhia de Dança Primeiro Ato (2019)" },
+        { "title": "O que vem depois do abraço?", "credit": "Coreografía de Christiano Castro, bailarín de la reconocida Companhia de Dança Palácio das Artes (2019)" },
+        { "title": "Vamos fazer de conta?", "credit": "Coreografía de Elton de Souza, bailarín de la reconocida Companhia de Dança Palácio das Artes (2022)" },
+        { "title": "Dona", "credit": "Coreografía de Gutielle Ribeiro, bailarina del Balé da Cidade de São Paulo (2022)" },
+        { "title": "Como se fosse amor", "credit": "Coreografía de Isadora Brandão, bailarina de la reconocida Companhia de Dança Palácio das Artes (2023)" },
+        { "title": "E.L.A", "credit": "Coreografía del reconocido coreógrafo Fred Veiga (2023)" },
+        { "title": "Loucuras de Carmina", "credit": "Coreografía del reconocido coreógrafo internacional Alessandro Pereira, DK/BR (2023)" },
+        { "title": "Patinho Feio", "credit": "Coreografía de Fernanda Vianna, actriz del Grupo Galpão, uno de los grupos de teatro más importantes de Brasil (2023)" },
+        { "title": "Predicativo do sujeito", "credit": "Coreografía del reconocido coreógrafo internacional Alex Soares (2024)" },
+        { "title": "Itinerário", "credit": "Coreografía de Filipe Bruschi, ex bailarín del mundialmente reconocido Grupo Corpo (2025)" },
+        { "title": "Ritos", "credit": "Coreografía del reconocido coreógrafo internacional Alessandro Pereira, DK/BR (2023)" },
+        { "title": "R.E.M", "credit": "Dueto junto a Ludmilla Ferrara, bailarina de la Companhia do Palácio das Artes. Coreografía del destacado coreógrafo Fred Veiga (2025)" }
+      ]
+    },
+    "training": {
+      "title": "FORMACIÓN Y ENTRENAMIENTO",
+      "columns": [
+        {
+          "heading": "Formación Académica",
+          "items": [
+            "Licenciatura en Teatro — Universidad Federal de Minas Gerais (2016·2022)",
+            "Intercambio Internacional en Artes Visuales y Artes Vivas — Universidad Nacional de Colombia (2020·2022) / Especialización en Artes y Nuevas Tecnologías y Artes Vivas"
+          ]
+        },
+        {
+          "heading": "Experiencia Profesional",
+          "items": [
+            "Pasantía en GöteborgsOperans Danskompani (2025)",
+            "Pasantía en Lenka Vagnarova & Company (2026)",
+            "Pasantía en Tanz Theater Hagen (2026)",
+            "Pasantía en Tanz Theater Heidelberg (2026)",
+            "Bailarín de la mayor compañía joven de Brasil, Ballet Jovem Minas Gerais (2019–2025)",
+            "Bailarín de la compañía franco-brasileña Ananda (2017–2019)",
+            "Bailarín de la Dança Jovem de Belo Horizonte (2014–2018)"
+          ]
+        },
+        {
+          "heading": "Formación Inicial",
+          "items": [
+            "Alumno del proyecto sociocultural Quik Cidadania (2004–2017)",
+            "Miembro del grupo juvenil Quik Jovem (2010–2017)"
+          ]
+        },
+        {
+          "heading": "Técnicas Estudiadas",
+          "items": [
+            "Entrenamiento en Capoeira (2005–2008 y 2022) — Con los maestros Pantera y Túlio",
+            "Técnica de Floorwork \"Piso Móvil\" — Bogotá, Colombia (2020·2022) con la compañía líder de Bogotá, Cortosinesis",
+            "Flying Low y Floorwork (2025) — Con Helder Seabra (PT) y Amarnah Ufuoma Cleopatra (LON)",
+            "Ballet Clásico — Con Maria Clara Salles, Renata Araújo, Miriam Tomich, Thiago Camargo y Paula César (2014·2024)",
+            "Técnica Alexander — Con la docente-bailarina Raquel Pires Cavalcanti (2017)",
+            "Técnica Viewpoints y Método Suzuki — Con Bya Braga y Luciana Brandão (2018)",
+            "Técnica MMS — Con Ricardo Risuenho (BR) (2016)",
+            "Gyrotonic y Gyrokinesis — Con Waneska César y Cristiano Reis (2024·2025)"
+          ]
+        }
+      ]
+    },
+    "workshops": {
+      "title": "TALLERES Y RESIDENCIAS",
+      "groups": [
+        {
+          "heading": "Talleres y Encuentros",
+          "items": [
+            "Danzas de África Occidental — Con Gaya Dandara y Kalaban Camara / SN (2014)",
+            "Improvisación de Contacto — Con Patricia Kuypers y Franck Beaubois / FR (2017)",
+            "\"Magia e Técnica\" — Con Morena Nascimento (BR), ex bailarina del Tanztheater Wuppertal de Pina Bausch (2018)",
+            "MasterClass con Wagner Moreira — Director de Tanzcompany Theater Regensburg / DE (2018)",
+            "Bienal Internacional de Danza de Cali — Talleres con Amala Dianor (FR), Aída Colmenero Díaz (ES), Germaine Acogny (SN/FR), NACH (FR) y Ballet Nacional Sodré (UY) · Colombia (2021)"
+          ]
+        },
+        {
+          "heading": "Residencias Artísticas",
+          "items": [
+            "Residencia Coreográfica con Laly Ayguadé (ES) — Festival SP.IN · São Paulo, Brasil (2025)",
+            "Delegación de Jóvenes Creadores Brasileños — Talleres, Foros y Muestras en la 21ª Bienal de Danza de Lyon · Francia (2025)",
+            "Laboratorio con Botis Seva y Far From The Norm (UK) — GöteborgsOperans Danskompani · Gotemburgo, Suecia (2025)",
+            "Laboratorio con Marcus Morau (ES) — GöteborgsOperans Danskompani · Gotemburgo, Suecia (2025)"
+          ]
+        }
+      ]
+    },
+    "festivals": {
+      "title": "FESTIVALES INTERNACIONALES",
+      "subheading": "Seleccionado como Intérprete y Freelancer",
+      "items": [
+        { "name": "Festival Internacional NOVADANÇA", "location": "Brasília, Brasil" },
+        { "name": "Festival Internacional DanzaMED", "location": "Medellín, Colombia" },
+        { "name": "Festival Internacional Muscarium #4", "location": "Lisboa, Portugal" },
+        { "name": "Festival Internacional Danza en la Ciudad", "location": "Bogotá, Colombia" },
+        { "name": "Festival Internacional XV Festival DZM", "location": "Cáceres, España" },
+        { "name": "Festival Nacional de Arte Monstra Autoral", "location": "Belo Horizonte / São Paulo, Brasil" }
+      ]
+    },
+    "showreel": {
+      "title": "Show Reel",
+      "links": [
+        { "label": "Gerúndio", "sublabel": "Solo autoral · 2023", "url": "https://youtu.be/HprkrE2l024" },
+        { "label": "Show Reel", "sublabel": "Completo · 2025", "url": "https://youtu.be/1zxXmitrlk8" }
+      ]
+    }
+  }
+}
