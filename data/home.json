@@ -1,7 +1,11 @@
 {
   "name": "Heleno Carneiro",
-  "subtitle": "Dancer · Choreographer · Teacher",
-  "subtitlePt": "Bailarino · Coreógrafo · Professor",
+  "subtitles": {
+    "pt": "Dançarino · Ator · Coreógrafo · Educador",
+    "en": "Dancer · Actor · Choreographer · Educator",
+    "es": "Bailarín · Actor · Coreógrafo · Educador",
+    "fr": "Danseur · Acteur · Chorégraphe · Éducateur"
+  },
   "contact": {
     "instagram": "@helenoar",
     "instagramUrl": "https://instagram.com/helenoar",

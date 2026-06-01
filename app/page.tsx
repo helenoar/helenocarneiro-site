@@ -1,7 +1,13 @@
+'use client'
+
 import Image from 'next/image'
 import homeData from '@/data/home.json'
+import { useLanguageStore } from '@/lib/language-store'
 
 export default function HomePage() {
+  const { lang } = useLanguageStore()
+  const subtitle = homeData.subtitles[lang as keyof typeof homeData.subtitles]
+
   return (
     <div className="relative w-full h-screen overflow-hidden">
       {/* Hero background with Ken Burns */}
@@ -38,7 +44,7 @@ export default function HomePage() {
             opacity: 0.8,
           }}
         >
-          {homeData.subtitlePt.toUpperCase()}
+          {subtitle.toUpperCase()}
         </p>
         <div className="flex items-center gap-8">
           <a
