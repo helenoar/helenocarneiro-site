@@ -1,14 +1,14 @@
 [
   {
-    "id": "gerundio",
-    "label": "Gerúndio",
-    "youtubeId": "HprkrE2l024",
-    "description": "Obra de criação própria (2023–presente)"
-  },
-  {
     "id": "showreel",
     "label": "Showreel",
     "youtubeId": "1zxXmitrlk8",
     "description": "Compilação de trabalhos como intérprete e coreógrafo"
+  },
+  {
+    "id": "gerundio",
+    "label": "Gerúndio",
+    "youtubeId": "HprkrE2l024",
+    "description": "Obra de criação própria (2023–presente)"
   }
 ]
