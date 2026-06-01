@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Barlow, Barlow_Condensed } from 'next/font/google'
 import './globals.css'
 import Header from '@/components/Header'
+import PageTransition from '@/components/PageTransition'
 
 const barlow = Barlow({
   subsets: ['latin'],
@@ -29,7 +30,9 @@ export default function RootLayout({
     <html lang="pt">
       <body className={`${barlow.variable} ${barlowCondensed.variable} bg-bg text-white font-barlow`}>
         <Header />
-        <main>{children}</main>
+        <main>
+          <PageTransition>{children}</PageTransition>
+        </main>
       </body>
     </html>
   )
