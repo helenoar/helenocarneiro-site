@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import LanguageSwitcher from '@/components/LanguageSwitcher'
 
 const navItems = [
   { label: 'CURRÍCULO', href: '/cv' },
@@ -42,6 +43,11 @@ export default function Header() {
               </Link>
             )
           })}
+          {(pathname === '/cv' || pathname.startsWith('/cv')) ? (
+            <div className="hidden md:flex items-center ml-8 pl-8 border-l border-white/20">
+              <LanguageSwitcher />
+            </div>
+          ) : null}
         </nav>
 
         {/* Mobile hamburger */}
@@ -73,6 +79,11 @@ export default function Header() {
               </Link>
             )
           })}
+          {(pathname === '/cv' || pathname.startsWith('/cv')) && (
+            <div className="px-6 py-4 border-t border-white/10">
+              <LanguageSwitcher />
+            </div>
+          )}
         </nav>
       )}
     </header>
