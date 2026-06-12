@@ -4,21 +4,21 @@
     "title": "Ritos",
     "credit": "Coreografia de Alessandro Pereira",
     "creditEn": "Choreography by Alessandro Pereira",
-    "photos": ["01.jpg", "02.jpg"]
+    "photos": ["01.jpg"]
   },
   {
     "slug": "itinerario",
     "title": "Itinerário",
     "credit": "Coreografia de Filipe Bruschi",
     "creditEn": "Choreography by Filipe Bruschi",
-    "photos": ["01.jpg"]
+    "photos": []
   },
   {
     "slug": "predicativo-do-sujeito",
     "title": "Predicativo do Sujeito",
     "credit": "Coreografia de Alex Soares",
     "creditEn": "Choreography by Alex Soares",
-    "photos": ["01.jpg"]
+    "photos": []
   },
   {
     "slug": "rem",
@@ -32,42 +32,42 @@
     "title": "Ímpar",
     "credit": "Coreografia de Chrystian Pimentel",
     "creditEn": "Choreography by Chrystian Pimentel",
-    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg", "07.jpg"]
+    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg"]
   },
   {
     "slug": "cesaria",
     "title": "Cesária",
     "credit": "Coreografia de Danielle Cirino",
     "creditEn": "Choreography by Danielle Cirino",
-    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg"]
+    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg", "07.jpg"]
   },
   {
     "slug": "loucuras-de-carmina",
     "title": "Loucuras de Carmina",
     "credit": "Coreografia de Alessandro Pereira",
     "creditEn": "Choreography by Alessandro Pereira",
-    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg"]
+    "photos": ["01.jpg", "02.jpg", "03.jpg"]
   },
   {
     "slug": "tex",
     "title": "Tex",
     "credit": "Coreografia de Leandro Beillo",
     "creditEn": "Choreography by Leandro Beillo",
-    "photos": ["01.jpg", "02.jpg"]
+    "photos": ["01.jpg"]
   },
   {
     "slug": "como-se-fosse-amor",
     "title": "Como Se Fosse Amor",
     "credit": "Coreografia de Isadora Brandão",
     "creditEn": "Choreography by Isadora Brandão",
-    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg"]
+    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg", "07.jpg"]
   },
   {
     "slug": "rumo",
     "title": "Rumo",
     "credit": "Coreografia de Maxmiler Junio e Christiano Castro",
     "creditEn": "Choreography by Maxmiler Junio and Christiano Castro",
-    "photos": ["01.jpg", "02.jpg"]
+    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg"]
   },
   {
     "slug": "vamos-fazer-de-conta",
@@ -81,6 +81,6 @@
     "title": "Submersa",
     "credit": "Direção de Heleno Carneiro",
     "creditEn": "Directed by Heleno Carneiro",
-    "photos": ["01.jpg", "02.jpg"]
+    "photos": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg"]
   }
 ]
