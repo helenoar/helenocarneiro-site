@@ -41,12 +41,15 @@ export default function VideosList({ videos }: Props) {
               <p className="text-white/50 text-sm mt-1">{video.description}</p>
             </div>
             {video.videoSrc ? (
-              <div className="w-full max-w-sm mx-auto overflow-hidden bg-black">
+              <div
+                className="relative w-full overflow-hidden bg-black"
+                style={{ aspectRatio: '16/9' }}
+              >
                 <video
                   src={video.videoSrc}
                   controls
                   playsInline
-                  className="w-full h-auto"
+                  className="absolute inset-0 w-full h-full"
                 />
               </div>
             ) : (
