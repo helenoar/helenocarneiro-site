@@ -1,5 +1,11 @@
 [
   {
+    "id": "gerundio-terca-aberta",
+    "label": "Gerúndio - Solo Autoral / Terça Aberta no Espaço Kasulo (SP)",
+    "videoSrc": "/videos/gerundio-terca-aberta.mp4",
+    "description": "Obra de criação própria (2023–presente)"
+  },
+  {
     "id": "showreel",
     "label": "Showreel",
     "youtubeId": "1zxXmitrlk8",
@@ -7,7 +13,7 @@
   },
   {
     "id": "gerundio",
-    "label": "Gerúndio",
+    "label": "Gerúndio no Festival Monstra Autoral (BH)",
     "youtubeId": "HprkrE2l024",
     "description": "Obra de criação própria (2023–presente)"
   }

@@ -4,7 +4,8 @@ import { motion } from 'framer-motion'
 interface Video {
   id: string
   label: string
-  youtubeId: string
+  youtubeId?: string
+  videoSrc?: string
   description: string
 }
 
@@ -39,18 +40,29 @@ export default function VideosList({ videos }: Props) {
               </h2>
               <p className="text-white/50 text-sm mt-1">{video.description}</p>
             </div>
-            <div
-              className="relative w-full overflow-hidden bg-black"
-              style={{ aspectRatio: '16/9' }}
-            >
-              <iframe
-                src={`https://www.youtube.com/embed/${video.youtubeId}`}
-                title={video.label}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-                className="absolute inset-0 w-full h-full border-0"
-              />
-            </div>
+            {video.videoSrc ? (
+              <div className="w-full max-w-sm mx-auto overflow-hidden bg-black">
+                <video
+                  src={video.videoSrc}
+                  controls
+                  playsInline
+                  className="w-full h-auto"
+                />
+              </div>
+            ) : (
+              <div
+                className="relative w-full overflow-hidden bg-black"
+                style={{ aspectRatio: '16/9' }}
+              >
+                <iframe
+                  src={`https://www.youtube.com/embed/${video.youtubeId}`}
+                  title={video.label}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  className="absolute inset-0 w-full h-full border-0"
+                />
+              </div>
+            )}
           </motion.div>
         ))}
       </motion.div>
